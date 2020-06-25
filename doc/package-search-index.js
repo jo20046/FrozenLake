@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"frozenlake"},{"l":"frozenlake.pfadfinder"},{"l":"frozenlake.pfadfinder.mustergruppe"}]
